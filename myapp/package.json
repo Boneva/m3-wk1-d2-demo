@@ -1,0 +1,13 @@
+{
+    "name": "myapp-test",
+    "version": "1.0.0",
+    "private":"true",
+    "description": "My first express app",
+    "authors": "Xinyue Li",
+    "main": "app.js",
+    "license":"ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {}
+}
